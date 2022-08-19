@@ -1,10 +1,10 @@
-# **Priority Delivery**
+# **Delivery Management System**
 
-Implemented a C++ menu-driven program to handle the flow of orders and deliveries of items, with consideration of the orders' rush status. Built for my CS 136- Introduction to Data Structures and Algorithms course.
+Implemented a C++ program to handle the flow of orders and deliveries of items, with consideration of the orders' priority status.
 <br />
 <br />
 
 # **What I Learned**
 
-- How to Implement a Priority Queue as a Max Heap
-- How to manage priorities of different rush statuses (Standard, Expedite, Extreme)
+- How to Implement and use a Priority Queue.
+- How to manage deliveries of different priority statuses.
