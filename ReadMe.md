@@ -1,10 +1,16 @@
 # **Delivery Management System**
 
-Implemented a C++ program to handle the flow of orders and deliveries of items, with consideration of the orders' priority status.
+This C++ program streamlines the process of managing orders and deliveries of items, taking into consideration the priority status of each order. It utilizes a priority queue to effectively handle the flow of orders and deliveries.
 <br />
 <br />
 
-# **What I Learned**
+# **Through the development of this project, I gained expertise in:**
 
-- How to Implement and use a Priority Queue.
-- How to manage deliveries of different priority statuses.
+- Implementing and using a priority queue.
+- Managing deliveries of different priority statuses
+
+# **This program offers the following benefits:**
+
+- Improved efficiency: The priority queue allows for quick and easy access to order and delivery information based on priority status, reducing the time and effort required to manage these processes.
+
+- Enhanced organization: By prioritizing orders and deliveries based on priority status, this program promotes clear and organized management of the delivery process.
